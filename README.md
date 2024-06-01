@@ -2,7 +2,7 @@
 
 ## About me:
 
-- 🌱 I’m software engineer in Vietnam
+- 🌱 I’m a software engineer in Vietnam
 - 🔭 I’m currently working on [TMA Solutions](https://www.tmasolutions.com/) with role is Backend Developer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luan-tran-3ab717228/)
 - ⚡ Fun fact: I love coding and play games
@@ -22,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
 ## My Github Stats:
