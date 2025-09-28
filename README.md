@@ -4,7 +4,7 @@
 
 - 🌱 I’m a software engineer in Vietnam
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luan-tran-3ab717228/)
-- ⚡ Fun fact: I love coding and use Vim btw
+- ⚡ Fun fact: I use Vim btw
 
 ## Languages and Tools:
 
